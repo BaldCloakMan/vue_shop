@@ -7,10 +7,24 @@ html,
     padding: 0;
     min-width: 1366px;
 }
-.el-breadcrumb{
+
+.el-breadcrumb {
     margin-bottom: 15px;
     font-size: 12px;
 }
-.el-card{
+
+.el-card {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-steps {
+    margin: 15px 0;
+
+}
+
+.el-step__title {
+    font-size: 13px !important;
+}
+.ql-editor{
+    min-height: 300px;
 }
